@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+}
+body {
+  font-family: "Trebuchet MS", Helvetica, sans-serif; /* fix this font */
+  background-color:#ccccff;
+  color: #black;
+  text-align: center;
+}
